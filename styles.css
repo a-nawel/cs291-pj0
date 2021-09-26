@@ -1,13 +1,12 @@
 /* styles.css */
 
 body {
- background-color: #DAF7A6;
- color: #FFFFFF;
+ background-color: #FCFDC0;
 }
 h1 {
- color: #FFFF33;
+ color: #FFC300;
  text-align: center;
- font: italic 200% fantasy;
+ font: italic;
 }
 p {
  background-color: #FFFF33;
