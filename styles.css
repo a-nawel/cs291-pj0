@@ -6,7 +6,7 @@ body {
 h1 {
  color: #2A39D0;
  text-align: center;
- font: italic;
+ font: italic 200% fantasy;
 }
 p {
  background-color: #FFFF33;
