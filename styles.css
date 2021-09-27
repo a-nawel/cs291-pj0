@@ -23,9 +23,8 @@ h1 {
   display: table;
   clear: both;
 }
-
 td, th {
-  border: 1px solid #dddddd;
+  border: 5px solid #D3204A;
   text-align: left;
-  padding: 8px;
+  padding: 10px;
 }
